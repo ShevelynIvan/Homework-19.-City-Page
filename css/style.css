@@ -1,0 +1,41 @@
+* {
+   box-sizing: border-box;
+}
+
+.info {
+   text-align: center;
+}
+
+.info p {
+   margin-inline: 5rem;
+}
+
+img {
+   width: 50%;
+   height: auto;
+}
+
+span {
+   color: red;
+}
+
+footer {
+   margin-inline: 2rem;
+}
+
+a {
+   color: blue;
+}
+
+a:active {
+   color: red;
+}
+
+a:visited {
+   color: purple;
+}
+
+a:hover,
+a:focus {
+   color: rgba(0, 0, 255, 0.7);
+}
